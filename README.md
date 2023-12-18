@@ -1,2 +1,14 @@
-# Desafio-Nivel_de_heroi
-Desafio de Projeto para continuar evoluindo no BootCamp de Potência Tech Ifood
+# Desafio da Plataforma DIO - Classificador de Nível de Herói de acordo com a XP do herói! 🦸‍♀️🦸‍♂️
+
+
+ ## Projeto sugerido para continuar evoluindo no BootCamp de Potência Tech Ifood. 
+ Utilizei linguagem JavaScript pois é a que mais estou familiarizada no momento!
+ 
+
+
+ Foi solicitado que fizesse o uso de:
+ 
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
