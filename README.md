@@ -6,7 +6,7 @@
  
 
 
- Foi solicitado que fizesse o uso de:
+ Foi solicitado o uso de:
  
 - Variáveis
 - Operadores
